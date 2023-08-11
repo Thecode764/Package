@@ -11,7 +11,7 @@ python3 package-dnf.py
 ```
 For Run apt package installer
 ```
-python3 package-apt.py'
+python3 package-apt.py
 ```
 For Use Version npm Installer
 ```
